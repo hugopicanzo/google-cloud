@@ -1,0 +1,1814 @@
+[
+	{
+		"name": "Google Compute Engine",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Persistent Disk",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Google Cloud Search",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Dataflow",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "BigQuery",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Google Cloud Storage",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Google App Engine",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Interconnect",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Apigee",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Pub/Sub",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Memorystore",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Logging",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud SQL",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Firestore",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "User Protection Services",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Spanner",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Google Kubernetes Engine",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Bigtable",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Dataproc",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Run",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Security Command Center",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Load Balancing",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Private HSM",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Container Registry Vulnerability Scanning",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "VPC Service Controls",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Data Loss Prevention",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud DNS",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Armor",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Identity Platform",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud VPN",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Assured Workloads",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Confidential Compute",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Private Service Connect",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Secret Manager",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "BeyondCorp Enterprise",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Private CA",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Artifact Registry",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud IDS",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Key Management Service",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Binary Authorization",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Firewall",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Domains",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Billing",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Console",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Shell",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Identity and Access Management",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Identity",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Virtual Private Cloud",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Chronicle Security",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Speech API",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Vision API",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Natural Language API",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Text-to-Speech API",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Document API",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AutoML",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AlloyDB",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AlloyDB for PostgreSQL",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AlloyDB Omni",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "App Engine Flexible",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "App Engine Standard",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Application Load Balancer",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AutoML Natural Language",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AutoML Tables",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AutoML Translation",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AutoML Video Intelligence",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "AutoML Vision",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud NGFW",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud NGFW Enterprise",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud NGFW Essentials",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud Run for GKE Enterprise",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud SQL for MySQL",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud SQL for PostgreSQL",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Cloud SQL Recommender",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Contact Center Agent Assist",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Contact Center AI Insights",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Conversational Agents",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Dialogflow",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Gemini API",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Gemini Cloud Assist",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Gemini Code Assist",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Gemini Workload Modernizer",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Healthcare Data Engine",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Passthrough Network Load Balancer",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Proxy Network Load Balancer",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Speech-to-Text On-Device",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Speech-to-Text On-Prem",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Unified Autoscaling",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Agent Builder",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Cloud Search",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Codey",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Codey Chat",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Codey Code Generation",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Codey Completion",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Conversation",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Data Labelling",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Decision Optimization",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Embeddings for Multimodal",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Embeddings for Text",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Experiments",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Feature Store",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Image Generation",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI in Firebase",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Managed Datasets",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Med-PaLM",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Model Garden",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Model Monitoring",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Model Registry",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI PaLM 2",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Pipelines",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Prediction",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Search",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Search for Healthcare",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Search for Media",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Sec-PaLM",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Tabular Workflows",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI TensorBoard",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Training",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Translation Hub",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Vector Search",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Veo",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Vision",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Vizier",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex AI Workbench",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex Deep Learning Containers",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex Deep Learning VM Images",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex Explainable AI",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex Extensions",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex ML Metadata",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex Palm API for Chat",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "Vertex Palm API for Text",
+		"tier": "Tier 1"
+	},
+	{
+		"name": "GPUs",
+		"tier": "Tier 2"
+	},
+	{
+		"name": "Cloud Monitoring",
+		"tier": "Tier 2"
+	},
+	{
+		"name": "Firebase",
+		"tier": "Tier 2"
+	},
+	{
+		"name": "Cloud Functions",
+		"tier": "Tier 2"
+	},
+	{
+		"name": "Cloud Composer",
+		"tier": "Tier 2"
+	},
+	{
+		"name": "Cloud Build",
+		"tier": "Tier 2"
+	},
+	{
+		"name": "Cloud Tasks",
+		"tier": "Tier 2"
+	},
+	{
+		"name": "Data Catalog",
+		"tier": "Tier 2"
+	},
+	{
+		"name": "Backup and DR",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Local SSD",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud CDN",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Translate",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Filestore",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Network Other",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Legacy AI Platform",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Industry Solutions",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Managed Services Fee",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "VM Image Storage",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Bare Metal Solution",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud AutoML Recommendations",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Test Lab",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker Android",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker iOS",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker Mobile",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker Studio",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker Studio Android",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker Studio IOS",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker Studio Mobile",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Looker Studio Pro",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "VPC Flow Logs",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Remote Build Execution",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Video Intelligence API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud SAP Bundle",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud IoT Core",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Packet Mirroring",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Network Intelligence Center",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Media",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Data Fusion",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Traffic",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Source Repository",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Data Transfer - Service",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Marketing Analytics Pack",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Geospatial",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Data Transfer - Appliance",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Trace",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Data Labeling Service",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Media Translation API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Egress",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Workflows",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Network Connectivity Center",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Subscriptions",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Cloud Vision OCR",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Media Edge",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Scheduler",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Dataproc Metastore",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Pub/Sub Lite",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Datastream",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Deploy",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "AppSheet",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud AI Platform",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "VMWare Engine",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Distributed Cloud: Edge",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Distributed Cloud: Hosted",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Anthos Bare Metal",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Anthos Identity Services",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Anthos Config Management",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE Connect",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GCE Shielded VM/Trusted VM",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Cloud Marketplace",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Service Mesh",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud AD",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Dataplex",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Asset Inventory & Search",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "3M: Migration Center",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "A2",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "A2+",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "A3",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Access Context Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Access Transparency",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Advisory Notifications",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Advisory Notifications Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "AI Platform Pipelines",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "AI Platform Training",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "AI Studio",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "AI Tasks",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Analytics Hub",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Anti Money Laundering AI",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "API Registry",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Apigee Edge Private Cloud",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Apigee Edge Public Cloud",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "App Hub",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Application Integration",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Assured Open Source Software",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Assured Workloads Monitoring",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Audit Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Balanced persistent disks",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Bare Metal HSM",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Bare Metal Solution for Oracle",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Bare Metal Solution for SAP",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "BigLake",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "BigQuery Engine for Apache Flink",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "BigQuery Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Blockchain Analytics",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Blockchain Node Engine",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Blockchain RPC",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Blockchain Validator Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Capacity Planner",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Carbon Footprint",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Certificate Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Channel Services",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Classic Application Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Classic Proxy Network Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud API Gateway",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud APIs",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Billing Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Code",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Code for Cloud Shell Editor",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Code for Cloud Workstations",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Code for JetBrains IDE",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Code for vscode",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Customer Communities",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Deployment Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Endpoints",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Error Reporting",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Functions for Firebase",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Functions Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Healthcare API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud IAM Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Infrastructure Entitlement Management",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud KMS KACLS",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Life Sciences",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Mobile App",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud NAT",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Profiler",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Quotas",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Router",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Run functions (1st generation)",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Run Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud SDK - Client Libraries",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud SDK - Google Cloud CLI",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Service Health",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Skills Boost",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Storage for Firebase",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Support",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud TPU",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cloud Workstations",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Colab Enterprise",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Compute Engine Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Config Controller",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Connectivity Tests",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Container Registry",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cross-Cloud Interconnect",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cross-region Internal Application Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Cross-region Internal Proxy Network Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Custom Automotive AI Agent",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Customer Care Portal",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Database Center",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Database Migration Service",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Databases Studio",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Datalab",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Dataprep",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Dataproc Serverless",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Developer Connect",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Dual Run",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Cloud express mode",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Eventarc",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "External Passthrough Network Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Extreme persistent disks",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Analytics",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase App Check",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase App Distribution",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase App Hosting",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Auth Standard",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Authentication with Identity Platform",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Cloud Messaging",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Data Connect",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Dynamic Links",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Extensions",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Hosting",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Realtime Database",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firebase Remote Config",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Firewall Insights",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "G2",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Game Servers",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GCP Platform Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Gen AI on Document AI",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Gen AI on Vertex Serving",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE Attached Clusters",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE Autopilot",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE Enterprise on GCP",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE on AWS",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE on Azure",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE on Multi-Cloud",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "GKE Standard",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Global External Application Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Global External Proxy Network Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Cloud Armor Enterprise",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Cloud Armor Standard",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Cloud Hyperdisk",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Cloud iOS App",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Cloud NetApp Volumes",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Distributed Cloud air-gapped appliance",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Distributed Cloud Sandbox",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Distributed Cloud Virtual",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Distributed Cloud Virtual - vSphere",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google Maps Platform Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Google SecOps SOAR",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Identity-Aware Proxy",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Imagen",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Immersive Stream for XR",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Infrastructure Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Inter-region Egress",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Inter-zone Egress",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Internal Passthrough Network Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Investigator AI",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Jurisdictional Cloud Console - EU",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Jurisdictional Cloud Console - KSA",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Jurisdictional Cloud Console - US",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "K80",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Kaniko",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Key Access Justifications",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Kf",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "L4 Private Service Connect",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "L7 Private Service Connect",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Live Stream API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mainframe Assessment Tool",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mainframe Connector",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mainframe GenAI",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mainframe Refactor",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Managed Lustre",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Managed Service for Apache Kafka",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Attack Investigation & Prioritization",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Attack Surface Management",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Breach Analytics for Chronicle",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Digital Threat Monitoring",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Expertise on Demand",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Hunt",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Managed Defense",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Managed Validation",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Ransomware Defense Validation",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Security Validation",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Security Validation - On Prem",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Security Validation - SaaS",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Mandiant Threat Intelligence",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Memorystore for Memcached",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Memorystore for Redis",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Memorystore for Redis Cluster",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Memorystore for Valkey",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Model Armor",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Network Analyzer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Network Security Integration",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Network Service Tiers",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Network Telemetry",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Network Topology",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "OAuth",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Oracle Database@Google Cloud",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "P100",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "P4",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Parallelstore",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Payment Gateway",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Performance (SSD) persistent disks",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Performance Dashboards",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Personalized Service Health",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "PINT",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Policy Intelligence",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "PolicySet",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Premium Tier",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Private NAT",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Private Services Access",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Privileged Access Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Public NAT",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Ray on Vertex",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "reCAPTCHA Enterprise",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Regional External Application Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Regional External Proxy Network Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Regional Internal Application Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Regional Internal Proxy Network Load Balancer",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Resource Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Resource Manager Recommender",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Retail API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Retail Search",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Risk Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Run on GKE",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "SaaS Service Management",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Safe Browsing",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Secure Source Manager",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Secure Web Proxy",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Service Catalog",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Service Directory",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Service Extensions",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Service Infrastructure",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Service Usage",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Skaffold",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Solutions Catalog",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Sovereign Controls by Partners",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Speaker ID",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Spectrum Access System",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "SQL Server on Google Cloud",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Standard persistent disks",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Standard Tier",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "T4",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Tags",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Talent Solutions",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Tekton",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Telecom Network Automation",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Telecom Subscriber Insights",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "TensorFlow Enterprise",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Text Search",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Text Search API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Text Search JS",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Timeseries Insights API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Tools for Eclipse",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Tools for PowerShell",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Tools for Visual Studio",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Transcoder API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Unified Maintenance",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "V100",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Video Stitcher API",
+		"tier": "Tier 3"
+	},
+	{
+		"name": "Visual Inspection AI",
+		"tier": "Tier 3"
+	}
+]
